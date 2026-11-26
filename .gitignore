@@ -3,5 +3,9 @@
 /microdados_censo_escolar_2024_defeso/dados/*.csv
 /microdados_censo_escolar_2025_v2/dados/*.csv
 
-# Arquivos temporários do Microsoft Excel
+# Microdados pesados do Saeb 2023
+/MICRODADOS_SAEB_2023/DADOS/*.csv
+
+# Arquivos temporários do Microsoft Excel e Windows
 ~$*.xlsx
+Thumbs.db
